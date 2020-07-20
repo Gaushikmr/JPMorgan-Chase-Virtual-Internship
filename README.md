@@ -1,4 +1,4 @@
-# JP-Morgan-Virtual-Internship
+# JPMorgan-Chase-Virtual-Internship
 
 <br>
 <p align="center">
