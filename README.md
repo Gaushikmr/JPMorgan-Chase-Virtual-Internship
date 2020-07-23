@@ -50,7 +50,7 @@ If you encounter an issue with `datautil.parser`, run this command:
 
 If you don't have pip yet, you can install it from: https://pip.pypa.io/en/stable/installing/
 
-To start the example client, run:
+To start the example client, Run:
 
 	python client3.py
 
