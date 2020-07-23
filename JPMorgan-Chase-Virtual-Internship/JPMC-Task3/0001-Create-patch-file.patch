@@ -1,5 +1,5 @@
 ---
- package-lock.json      | 218 ++++++++++++++++++++++++++++++++++++-----
+ package-lock.json      | 218 ++++++++++++++++++++++++++++++++++++
  package.json           |   1 +
  src/DataManipulator.ts |  31 ++++--
  src/Graph.tsx          |  27 ++---
