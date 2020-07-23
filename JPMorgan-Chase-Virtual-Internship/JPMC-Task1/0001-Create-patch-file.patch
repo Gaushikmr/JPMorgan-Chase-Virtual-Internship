@@ -66,7 +66,7 @@ index af2bf26..bc510a0 100644
      ]
      """ ------------ Add the assertion below ------------ """
 -
-+    for quote in quotes:
++    for quote in quotes::
 +      self.assertEqual(getDataPoint(quote), (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_bid']['price'] + quote['top_ask']['price'])/2))
  
    """ ------------ Add more unit tests ------------ """
